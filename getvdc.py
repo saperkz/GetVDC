@@ -1,3 +1,13 @@
+# ***************************
+# App: GetVDC
+# Description: Get report data from Vcloud API to excel
+# Date: 25.05.2020
+# Author: Olzhas Omarov
+# Python version: 3.8
+# Compatibility: Vcloud 9.5 and above (for older versions please contact me by email)
+# Email: ooskenesary@gmail.com
+# ***************************
+
 import os
 import csv
 import requests
